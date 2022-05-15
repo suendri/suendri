@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**suendri/suendri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working as:
+- Lecturer
+- Researcher
+- Sometimes Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- Python
+- Artificial Intelligence
+- Javascript
+
+
+![Suendri's GitHub stats](https://github-readme-stats.vercel.app/api?username=suendri&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suendri)](https://github.com/suendri/github-readme-stats)
