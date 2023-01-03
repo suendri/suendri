@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![Repos Badge](https://badges.pufler.dev/repos/suendri)](https://github.com/suendri?tab=repositories)
-[![Visits Badge](https://badges.pufler.dev/visits/suendri/suendri)](https://badges.pufler.dev)
-
-
 🔭 I’m currently working as:
 - Lecturer
 - Researcher
